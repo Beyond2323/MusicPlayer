@@ -15,7 +15,7 @@ const icon2Tag = document.getElementsByClassName("fa-play hide")[0];
 const backbuttonTag = document.getElementsByClassName("backbutton")[0];
 
  const musics = [
-    {name:"C:\Users//1/Music/The River-mc.mp3", id: "1", title:"The River", image:"https://i.ytimg.com/vi/W_3nq_hKipc/maxresdefault.jpg"},
+    {name:"The River-mc.mp3", id: "1", title:"The River", image:"https://i.ytimg.com/vi/W_3nq_hKipc/maxresdefault.jpg"},
     {name:"C:\Users/1/Music/I don't quite remember.mp3", id: "2", title:"I Don't Quiet Remember", image:"https://c4.wallpaperflare.com/wallpaper/358/713/232/anime-i-want-to-eat-your-pancreas-wallpaper-preview.jpg"},
     {name:"C:\Users/1/Music/We The Kings - Sad Song (Official Lyric Video) ft. Elena Coats.m4a", id: "3", title:"We The King", image:"https://i.ytimg.com/vi/BZsXcc_tC-o/maxresdefault.jpg"},
     {name:"C:\Users/1/Music/My heart will go on.mp3", id: "4", title:"My Heart Will Go On", image:"https://i0.wp.com/www.michigandaily.com/wp-content/uploads/2020/02/Paramount-prints-in-color-copy.jpg?fit=720%2C480&ssl=1"},
@@ -34,7 +34,7 @@ const musics3 = [
 ]
 
 let pictures = [
-    {name:"C:\Users//1/Music/The River-mc.mp3", id: "1", images: "https://i.ytimg.com/vi/W_3nq_hKipc/maxresdefault.jpg", backgroundimage:""},
+    {name:"The River-mc.mp3", id: "1", images: "https://i.ytimg.com/vi/W_3nq_hKipc/maxresdefault.jpg", backgroundimage:""},
     {name:"C:\Users/1/Music/I don't quite remember.mp3", id: "2", images: "https://c4.wallpaperflare.com/wallpaper/358/713/232/anime-i-want-to-eat-your-pancreas-wallpaper-preview.jpg", backgroundimage:""},
     {name:"C:\Users/1/Music/We The Kings - Sad Song (Official Lyric Video) ft. Elena Coats.m4a", id: "3", images: "https://i.ytimg.com/vi/BZsXcc_tC-o/maxresdefault.jpg"},
     {name:"C:\Users/1/Music/My heart will go on.mp3", id: "4", images: "https://i0.wp.com/www.michigandaily.com/wp-content/uploads/2020/02/Paramount-prints-in-color-copy.jpg?fit=720%2C480&ssl=1", backgroundimage:""},
