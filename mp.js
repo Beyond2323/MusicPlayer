@@ -15,22 +15,22 @@ const icon2Tag = document.getElementsByClassName("fa-play hide")[0];
 const backbuttonTag = document.getElementsByClassName("backbutton")[0];
 
  const musics = [
-    {name:"C:\Users//1/Music/The River-mc.mp3", id: "1", title:"The River", image:"https://i.ytimg.com/vi/W_3nq_hKipc/maxresdefault.jpg"},
-    {name:"C:\Users/1/Music/I don't quite remember.mp3", id: "2", title:"I Don't Quiet Remember", image:"https://c4.wallpaperflare.com/wallpaper/358/713/232/anime-i-want-to-eat-your-pancreas-wallpaper-preview.jpg"},
-    {name:"C:\Users/1/Music/We The Kings - Sad Song (Official Lyric Video) ft. Elena Coats.m4a", id: "3", title:"We The King", image:"https://i.ytimg.com/vi/BZsXcc_tC-o/maxresdefault.jpg"},
-    {name:"C:\Users/1/Music/My heart will go on.mp3", id: "4", title:"My Heart Will Go On", image:"https://i0.wp.com/www.michigandaily.com/wp-content/uploads/2020/02/Paramount-prints-in-color-copy.jpg?fit=720%2C480&ssl=1"},
+    {name:"The River-mc.mp3", id: "1", title:"The River", image:"https://i.ytimg.com/vi/W_3nq_hKipc/maxresdefault.jpg"},
+    {name:"I don't quite remember.mp3", id: "2", title:"I Don't Quiet Remember", image:"https://c4.wallpaperflare.com/wallpaper/358/713/232/anime-i-want-to-eat-your-pancreas-wallpaper-preview.jpg"},
+    {name:"We The Kings - Sad Song (Official Lyric Video) ft. Elena Coats.m4a", id: "3", title:"We The King", image:"https://i.ytimg.com/vi/BZsXcc_tC-o/maxresdefault.jpg"},
+    {name:"My heart will go on.mp3", id: "4", title:"My Heart Will Go On", image:"https://i0.wp.com/www.michigandaily.com/wp-content/uploads/2020/02/Paramount-prints-in-color-copy.jpg?fit=720%2C480&ssl=1"},
 ]
 
 const musics2 = [
-    {name:"C:\Users/1/Music/Alan Walker-Lost Control.m4a", id: "5", title:"Lost Control", image:"https://i.ytimg.com/vi/a_ydbTtRUwU/maxresdefault.jpg"},
-    {name:"C:\Users/1/Music/Alan Walker-Faded.mp3", id: "6", title:"Faded", image:"https://www.srtfiles.com/posters/8576b01fd8645b8527986090891ddc31.jpg"},
-    {name:"C:\Users/1/Music/Hello-mc..mp3", id: "7", title:"Hello", image:"https://tse2.mm.bing.net/th?id=OIP.xGyWbqujO3i80n4HlUjwngAAAA&pid=Api&P=0&w=159&h=159"},
-    {name:"C:\Users/1/Music/I will be right here waiting for you - Richard Marx with lyrics.m4a", id: "8", title:"Right here waiting for you", image:"https://i.ytimg.com/vi/AtYxWYNq-FM/maxresdefault.jpg"}, 
+    {name:"Alan Walker-Lost Control.m4a", id: "5", title:"Lost Control", image:"https://i.ytimg.com/vi/a_ydbTtRUwU/maxresdefault.jpg"},
+    {name:"Alan Walker-Faded.mp3", id: "6", title:"Faded", image:"https://www.srtfiles.com/posters/8576b01fd8645b8527986090891ddc31.jpg"},
+    {name:"Hello-mc..mp3", id: "7", title:"Hello", image:"https://tse2.mm.bing.net/th?id=OIP.xGyWbqujO3i80n4HlUjwngAAAA&pid=Api&P=0&w=159&h=159"},
+    {name:"I will be right here waiting for you - Richard Marx with lyrics.m4a", id: "8", title:"Right here waiting for you", image:"https://i.ytimg.com/vi/AtYxWYNq-FM/maxresdefault.jpg"}, 
 ]
 
 const musics3 = [
-    {name:"C:\Users/1/Music/She used to be mine.mp3", id: "9", title:"Used to be mine", image:"http://wallup.net/wp-content/uploads/2016/04/10/332100-original_characters-anime-anime_girls-snow-scarf-school_uniform.jpg"},
-    {name:"C:\Users/1/Music/The Day I Left Away-mc.m4a", id: "10", title:"The day I left away", image:"https://i1.sndcdn.com/artworks-000079185465-t4rfag-t500x500.jpg"}, 
+    {name:"She used to be mine.mp3", id: "9", title:"Used to be mine", image:"http://wallup.net/wp-content/uploads/2016/04/10/332100-original_characters-anime-anime_girls-snow-scarf-school_uniform.jpg"},
+    {name:"The Day I Left Away-mc.m4a", id: "10", title:"The day I left away", image:"https://i1.sndcdn.com/artworks-000079185465-t4rfag-t500x500.jpg"}, 
 ]
 
 let pictures = [
