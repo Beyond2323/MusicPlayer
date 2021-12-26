@@ -14,7 +14,7 @@ const nextbuttonTag = document.getElementsByClassName("nextbutton")[0];
 const icon2Tag = document.getElementsByClassName("fa-play hide")[0];
 const backbuttonTag = document.getElementsByClassName("backbutton")[0];
 
-/path/to / chrome_binary– allow - file - access - from - files - disable - web - security
+
  const musics = [
     {name:"C:\Users/1/Music/The River-mc.ogg", id: "1", title:"The River", image:"https://i.ytimg.com/vi/W_3nq_hKipc/maxresdefault.jpg"},
     {name:"C:\Users/1/Music/I don't quite remember.mp3", id: "2", title:"I Don't Quiet Remember", image:"https://c4.wallpaperflare.com/wallpaper/358/713/232/anime-i-want-to-eat-your-pancreas-wallpaper-preview.jpg"},
